@@ -8,8 +8,14 @@ Nasci em Pernambuco, Brazil 🌎
 </br>
 Atualmente resido em Olinda/PE 📌
 </br>
+</br>
+</br>
 Sou Pós-Graduando em Engenharia de Software pelo CIn-UFPE 💻
+</br>
+</br>
 Sou Graduando em Engenharia da Computação pela UPE 💻
+</br>
+</br>
 Sou Bacharel em Engenharia Eletrônica pela UFPE 💻
 </br>
 
